@@ -6,8 +6,10 @@
 # !!
 # !
 
-# Credits to MentalOutlaw for example and inspiration. This is my personal virsion as well as an update
+# Credits to MentalOutlaw and mimi0000oo for example and inspiration. This is my personal virsion as well as an update
 # MentalOutlaw's github repo: https://github.com/Mentaloutlaw/deploygentoo/
+# mimi0000oo github repo: https://github.com/mimi0000oo/deploygentoo/
+
 
 # just colors used in the script (ignore)
 LIGHTGREEN='\033[1;32m'
