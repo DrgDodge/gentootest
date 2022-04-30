@@ -1,4 +1,4 @@
-xxxxxxxxxxxxxxsource /etc/profile
+source /etc/profile
 export PS1="(chroot) ${PS1}"
 mount /dev/sda1 /boot
 emerge-webrsync
