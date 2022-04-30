@@ -681,7 +681,7 @@ getStage3() {
 	        wget --retry-connrefused --waitretry=1 --read-timeout=20 --timeout=15 -t 0 $provided_stage3
 
             checkStage3
-
+//.
         fi
 
     fi
