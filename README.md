@@ -3,4 +3,4 @@ Credit to @mimi0000oo and @MentalOutlaw
 
 
 
-Runt setupgentoo.sh to setup gentoo!
+Run setup.sh to setup gentoo!
